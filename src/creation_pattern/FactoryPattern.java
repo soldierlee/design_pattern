@@ -15,7 +15,6 @@ public class FactoryPattern {
 		d.eat();
 	}
 
-	
 }
 
 interface Factory {
