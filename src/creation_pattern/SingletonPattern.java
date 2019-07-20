@@ -1,4 +1,8 @@
 package creation_pattern;
+
+import java.sql.DriverManager;
+import java.util.Calendar;
+
 /**
  * 
  * @author soldierlee
@@ -20,6 +24,8 @@ public class SingletonPattern {
 		Singleton s4 = Singleton.getInstance();
 		System.out.println(s3 == s3);  //true
 		
+
+		 Calendar c = Calendar.getInstance(); 
 	}
 }
 
