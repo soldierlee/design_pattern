@@ -1,6 +1,7 @@
 package creation_pattern;
 
 /**
+ * 工厂方法模式：定义一个创建对象的接口，让子类决定实例化那个类。
  * 
  * @author soldierlee
  * @email bsoldier1024@gmail.com
