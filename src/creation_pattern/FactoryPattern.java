@@ -14,7 +14,6 @@ public class FactoryPattern {
 		Dog d = (Dog) df.createAnimal();
 		d.eat();
 	}
-
 }
 
 interface Factory {
